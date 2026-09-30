@@ -1,5 +1,7 @@
 # Vorton
 
+**Discontinued.** This cloud implementation is preserved for historical reference. Active Vorton development continues in the [local Vorton repository](https://github.com/AubreyF/vorton).
+
 Vorton delivers sovereign superintelligence for humans and AI-native organizations. Vorton extends current frontier AI capabilities with biomimetic memories, a self-improving software factory, ultra-tier subscription multiplexing, and an elegant visual control plane.
 
 For one person, Vorton can become a lifelong partner in thinking, creating, deciding, and remembering. For an AI-native organization, it offers a unified coordinating fabric for people, agents, knowledge, and software.
